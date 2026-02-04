@@ -16,8 +16,12 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=roblox&logo=discord&label=xgoblin's%20hub&color=63605f&logoColor=8c8685&labelColor=8c8685&style=for-the-badge" height="30" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=roblox&logo=twitter&label=afk%20for%20ugc&color=63605f&logoColor=8c8685&labelColor=8c8685&style=for-the-badge" height="30" alt="twitter logo"  />
+  <a href="https://www.roblox.com/games/111051893046920" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=roblox&logo=discord&label=xgoblin's%20hub&color=63605f&logoColor=8c8685&labelColor=8c8685&style=for-the-badge" height="30" alt="discord logo"  />
+  </a>
+  <a href="https://www.roblox.com/games/86649911051252" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=roblox&logo=twitter&label=afk%20for%20ugc%20(under%20development)&color=63605f&logoColor=8c8685&labelColor=8c8685&style=for-the-badge" height="30" alt="twitter logo"  />
+  </a>
 </div>
 
 ###
